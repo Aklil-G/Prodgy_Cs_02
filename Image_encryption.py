@@ -1,4 +1,4 @@
-"""This is simple python code for image 
+"""This is simple python code for image encruption/decryption
 
 from PIL import Image
 import numpy as np
@@ -63,4 +63,4 @@ if __name__ == "__main__":
         print("Invalid action! Please choose 'encrypt' or 'decrypt'.")
 
 
-##
+
